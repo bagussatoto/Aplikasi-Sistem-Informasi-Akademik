@@ -42,6 +42,9 @@ sistem informasi akademik dengan codeigniter
 * user_auth_rules : cabang baru
   * 9.13.0 : menambahkan helper dan fungsi cek user pada semua controller
   * 9.13.1 : edit list menu pada berdasarkan user role
+
+
+
   * 9.13.2 : edit fungsi tambahkan guru sebagai user
   * 9.13.3 : membuat halaman absensi
   * 9.13.4 : membenahi fungsi create dan update pada absensi menggunakan perintah INSERT ... ON DUPLICATE KEY UPDATE Statement
@@ -60,3 +63,7 @@ sistem informasi akademik dengan codeigniter
   * 9.13.17 : nilai pengetahuan
   * 9.13.18 : kompetensi dasar
     * 9.13.18.1 : crud kompetensi dasar
+
+Panduan Login 
+User     : Admin@gmail.com
+Passs    : password 
